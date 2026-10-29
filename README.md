@@ -25,7 +25,7 @@ Se quiseres testar qualquer um dos projetos na tua máquina local, segue estes p
 
 1. Clona este repositório:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/darpimen11/frontend-challenges.git)
    ```
 2. Entra na pasta do repositório:
    ```bash
